@@ -1,0 +1,100 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:59:5"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:91:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:135:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:156:17"
+
+[OnPrevButton]
+Class="Function"
+Prototype="int OnPrevButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:236:17"
+
+[OnNextButton]
+Class="Function"
+Prototype="int OnNextButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:303:17"
+
+[OnMinMaxButton]
+Class="Function"
+Prototype="int OnMinMaxButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:370:17"
+
+[OnVarianceButton]
+Class="Function"
+Prototype="int OnVarianceButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:434:17"
+
+[OnMeanButton]
+Class="Function"
+Prototype="int OnMeanButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:474:17"
+
+[OnMedianButton]
+Class="Function"
+Prototype="int OnMedianButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:515:17"
+
+[OnHistogramButton]
+Class="Function"
+Prototype="int OnHistogramButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:556:17"
+
+[OnZeroCrossingButton]
+Class="Function"
+Prototype="int OnZeroCrossingButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:602:17"
+
+[OnAplicaButton]
+Class="Function"
+Prototype="int OnAplicaButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:648:17"
+
+[OnSkewnessButton]
+Class="Function"
+Prototype="int OnSkewnessButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:771:17"
+
+[OnKurtosisButton]
+Class="Function"
+Prototype="int OnKurtosisButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:793:17"
+
+[OnAnvelopaButton]
+Class="Function"
+Prototype="int OnAnvelopaButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:815:17"
+
+[ComputePowerSpectrum]
+Class="Function"
+Prototype="int ComputePowerSpectrum(double inputArray[], unsigned int numberOfElements, double samplingRate, double convertedSpectrum[], double *frequencyInterval, double *powerPeak, double *freqPeak);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:850:5"
+
+[OnSpectruButton]
+Class="Function"
+Prototype="int OnSpectruButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:873:17"
+
+[OnInterval]
+Class="Function"
+Prototype="int OnInterval(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:917:17"
+
+[OnFilterButton]
+Class="Function"
+Prototype="int OnFilterButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Andreea\Desktop\Anul 3\sem 1\APD\proiect\saptamana 3\interfata.c:1016:17"
+
